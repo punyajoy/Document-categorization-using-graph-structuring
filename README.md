@@ -14,7 +14,7 @@ There are five text files - *basic_tech.txt*,*basic_business.txt*,*basic_poltics
 
 They contain the most five most important words for each class
 
-###Usage
+### Usage
 
 In order to run the code on test set....
 1. load the files in load_all manully in spyder.
