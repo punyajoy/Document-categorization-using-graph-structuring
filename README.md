@@ -14,6 +14,9 @@ There are five text files - *basic_tech.txt*,*basic_business.txt*,*basic_poltics
 
 They contain the most five most important words for each class
 
+![This is the flowchart](https://github.com/punyajoy/Document-categorization-using-graph-structuring/blob/master/images/26.jpg)
+
+
 ### Usage
 
 In order to run the code on test set....
