@@ -1,0 +1,5 @@
+government
+person
+minister
+year
+election

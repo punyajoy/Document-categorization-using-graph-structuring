@@ -1,0 +1,5 @@
+person
+year
+technology
+game
+user
